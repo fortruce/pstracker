@@ -1,0 +1,27 @@
+{
+  "name": "pstracker",
+  "version": "0.0.1",
+  "description": "EventEmitter to track process start/stop by process title or pid.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fortruce/pstracker.git"
+  },
+  "author": "fortruce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortruce/pstracker/issues"
+  },
+  "homepage": "https://github.com/fortruce/pstracker",
+  "dependencies": {
+    "ps-node": "0.0.4"
+  },
+  "keywords": [
+    "track",
+    "ps",
+    "process",
+    "pid",
+    "spawn",
+    "kill"
+  ]
+}
