@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/fortruce/pstracker",
   "dependencies": {
-    "ps-node": "0.0.4"
+    "node-ps": "0.0.2"
   },
   "keywords": [
     "track",
