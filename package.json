@@ -1,6 +1,6 @@
 {
   "name": "pstracker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "EventEmitter to track process start/stop by process title or pid.",
   "main": "index.js",
   "repository": {
